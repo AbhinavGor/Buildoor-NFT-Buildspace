@@ -1,5 +1,10 @@
 .container {
+  background: #1f1f1f;
   padding: 0 2rem;
+}
+
+.wallet-adapter-button-trigger {
+  background-color: #833bbe;
 }
 
 .main {
